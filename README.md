@@ -8,5 +8,5 @@
 ### Confere ai como ficou:
 
 <div style:"display: flex">
-  <img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/App.jpg" style="width: 50%;">
+  <img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/App.png" style="width: 100%;">
 </div>
