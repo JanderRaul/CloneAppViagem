@@ -7,4 +7,4 @@
 ###
 ### Confere ai como ficou:
 
-<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/brasil.jpg">
+<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/AppViagens.jpg">
