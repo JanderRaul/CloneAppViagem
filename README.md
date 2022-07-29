@@ -7,5 +7,5 @@
 ###
 ### Confere ai como ficou:
 
-<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/AppViagens.jpg" style="max-width: 40%;">
-<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/AppViagens2.jpg" style="max-width: 40%;">
+<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/AppViagens.jpg" style="width: 40%;">
+<img src="https://github.com/JanderRaul/CloneAppViagem/blob/main/app_viagem_google_fonts/assets/AppViagens2.jpg" style="width: 40%;">
