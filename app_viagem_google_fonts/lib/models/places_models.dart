@@ -1,6 +1,7 @@
 class Places {
-  final String? image;
+  final String? name;
+  final List<String>? image;
   final String? continent;
 
-  Places({this.image, this.continent});
+  Places({this.name, this.image, this.continent});
 }

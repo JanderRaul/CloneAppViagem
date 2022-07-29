@@ -116,8 +116,7 @@ class _HomePageState extends State<HomePage> {
                       return Padding(
                         padding: const EdgeInsets.only(right: 16),
                         child: CardDestinos(
-                          image: placesList[index].image!,
-                          continent: placesList[index].continent!,
+                          place: placesList[index],
                         ),
                       );
                     }),
